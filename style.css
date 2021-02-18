@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+background-color:#foe8c5;
+    
+}
+
+div{
+    margin-top: 15px;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+#album{
+  width:200px;
+  border-style:solid; 
+  border-color:#689F38 border: 1px border-radius: 80px;
+  padding: 5px;
+}
